@@ -40,14 +40,12 @@ To get started with this project, follow these steps:
 
 3. Modify the notebook or experiment with different hyperparameters to improve the model's accuracy.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - This project is based on [TensorFlow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/).
 - Inspiration and dataset: [Kaggle - Flower Classification](https://www.kaggle.com/alxmamaev/flowers-recognition)
+- This project is associated with Bahria University.
 
 ---
 
