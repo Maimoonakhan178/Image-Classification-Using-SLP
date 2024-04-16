@@ -45,7 +45,7 @@ To get started with this project, follow these steps:
 
 - This project is based on [TensorFlow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/).
 - Inspiration and dataset: [Kaggle - Flower Classification](https://www.kaggle.com/alxmamaev/flowers-recognition)
-- This project is associated with Bahria University.
+
 
 ---
 
