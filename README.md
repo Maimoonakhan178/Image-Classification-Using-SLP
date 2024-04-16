@@ -1,4 +1,3 @@
-To create a README for your GitHub repository based on the provided code, you can describe the purpose of the code, its functionality, and how to use it. Here's a basic template for your README.md file:
 
 ---
 
@@ -53,4 +52,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize this README according to your project's specific details and requirements. Make sure to update the placeholders (e.g., `your-username`, `LICENSE`, etc.) with appropriate values.
